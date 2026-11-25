@@ -206,5 +206,17 @@ The project follows the Medallion Architecture using Microsoft Fabric:
 - Connector types and charging technologies.
 - Connector availability by operator.
 - Geographic distribution across the Netherlands.
+- ## Skills Demonstrated
+
+- **Microsoft Fabric:** Lakehouse development and data management.
+- **Data Engineering:** Medallion architecture (Bronze, Silver, Gold).
+- **Python & PySpark:** Data ingestion, JSON parsing, transformation and cleaning.
+- **SQL:** Data validation, aggregation and analytical queries.
+- **Delta Lake:** Creating and managing structured Delta tables.
+- **Data Quality:** Duplicate removal, missing-value checks and validation.
+- **Power BI:** Dashboard development, KPI reporting and data visualization.
+- **Data Modeling:** Building relationships between analytical tables.
+- **Geospatial Analytics:** Extracting longitude and latitude from GeoJSON data.
+- **Business Intelligence:** Analyzing EV charging infrastructure and connector availability.
 
 **Data note:** The availability figures represent the downloaded dataset snapshot and should not be interpreted as live charging-station availability.
