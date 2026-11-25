@@ -126,5 +126,10 @@ Dutch EV Charging Infrastructure Analytics
 The following dashboard provides an interactive overview of EV charging infrastructure across the Netherlands.
 
 ![Dutch EV Charging Infrastructure Dashboard](ev-charging-dashboard.png)
+## Microsoft Fabric Architecture
+
+The following diagram illustrates the end-to-end data engineering architecture, including data ingestion, Bronze, Silver and Gold layers, and Power BI reporting.
+
+![Microsoft Fabric Architecture](ev-charging-architecture.png)
 
 Built as part of my Microsoft Fabric and Data Engineering portfolio.
