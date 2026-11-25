@@ -99,8 +99,7 @@ The dashboard provides an overview of:
 - Connector technology distribution.
 - Connector availability by operator.
 - Geographic distribution of charging locations.
-![Dutch EV Charging Power BI Dashboard](ev-charging-dashboard.png)
-## Business Value
+![Dutch EV Charging Power BI Dashboard](ev-charging-dashboard-updated.png)## Business Value
 
 This project demonstrates how open infrastructure data can be transformed into useful analytical insights.
 
