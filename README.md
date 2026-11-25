@@ -121,5 +121,10 @@ Aspiring Junior Cloud Data Engineer | Microsoft Fabric | Python | PySpark | SQL 
 ## Repository
 
 Dutch EV Charging Infrastructure Analytics
+## Power BI Dashboard
+
+The following dashboard provides an interactive overview of EV charging infrastructure across the Netherlands.
+
+![Dutch EV Charging Infrastructure Dashboard](ev-charging-dashboard.png)
 
 Built as part of my Microsoft Fabric and Data Engineering portfolio.
